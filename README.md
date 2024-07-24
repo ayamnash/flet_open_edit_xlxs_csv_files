@@ -7,7 +7,7 @@ by click on Code icon you can  input your command and run it, of course, I creat
  Variable names in the code are often random
 
 
- قعى ؤخيف
+ 
  
  Youtube 
 [link](https://www.youtube.com/watch?v=eRItslIn6Ok)
