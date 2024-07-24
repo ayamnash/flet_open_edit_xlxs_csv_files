@@ -3,6 +3,11 @@ I created this desktop application  to facilitate  practice of using pandas and 
  when use of large files that contain hundreds of thousands or millions of rows.
 by click on Code icon you can  input your command and run it, of course, I created a drop-down list as a sample of how to use the commands.
  of course you have to change  the column names depend on of the picked file. You can modify the row by clicking on it, and you can also save the modifications and make filter for data
+
+ Variable names in the code are often random
+
+
+ قعى ؤخيف
  
  Youtube 
 [link](https://www.youtube.com/watch?v=eRItslIn6Ok)
